@@ -1,0 +1,81 @@
+The challenge:
+
+Hi Team,
+
+Here at Pasta & Playtime, Every Bite is 87x Better Than the Last!
+
+But in order to support all of our employees, we need to create a way for them to safely download and install desktop apps.
+
+Previously, whenever an employee wanted to download something on their computer, they only had to get their manager’s approval. Everything was working great until someone installed the wrong “calculator.exe”. Now that was one spicy meatball.
+
+Please create a list of common productivity software that we have approved for installation. There should be a good and comprehensive list of office essentials (about 10 or so). No command line tools please!
+
+As part of your inject, please submit an example of a company-wide email to employees notifying them of the contents of the list. We will perform a review before distributing the said email once you have provided it.
+
+Expect employees to ask for installs from the approved list of software that you provide.
+
+Bonnie Hase
+Pasta & Playtime
+CTO
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+The solution:
+
+Approved Desktop Applications for Installation
+1. Microsoft Word
+2. Microsoft Excel
+3. Microsoft PowerPoint
+4. OneDrive
+5. Microsoft Teams
+6. Microsoft Outlook
+7. Microsoft Access
+8. Microsoft OneNote
+9. Skype for Business
+10. SharePoint
+
+Example of a Corporate Email:
+
+Subject: Approved Desktop Applications for Installation
+
+
+Dear National University team,
+
+In our ongoing efforts to improve workflows and increase efficiency throughout the
+organisation, we have created a list of approved desktop programmes that you can safely
+download and install on your work PCs. These applications have been thoroughly tested to
+ensure that they meet our security requirements and successfully support our business
+operations.
+
+Here is a list of allowed desktop applications:
+
+1. Microsoft Word
+2. Microsoft Excel
+3. Microsoft PowerPoint
+4. OneDrive
+5. Microsoft Teams
+6. Microsoft Outlook
+7. Microsoft Access
+8. Microsoft OneNote
+9. Skype for Business
+10. SharePoint
+
+If you need to install any additional software for work-related tasks, please check this list
+first. If the desired application is not on the list, please contact your manager for further
+review and approval.
+
+Remember, everyone is responsible for the security of our systems and data. When
+downloading and installing software, exercise caution and always confirm that the source is
+reliable and trustworthy.
+
+If you have any issues or require assistance with the approved applications, please do not
+hesitate to contact our IT support staff.
+
+I appreciate your cooperation.
+
+
+Best Regards,
+
+Yasser Habib
+IT Support
+National University
